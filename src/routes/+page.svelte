@@ -11,7 +11,8 @@
         <hr>
         <div>
           <h1 class="text-5xl font-bold">Rencontres Covid Long</h1>
-          <p class="pb-6 text-xl">S’entraider, s’écouter et partager son expérience avec des personnes qui comprennent notre situation. </p>
+          <p class="pb-6 text-xl">Nous organisons des sessions de rencontres entre malades et concernés (proches, amis de malades) <br/>
+            S’entraider, se soutenir et partager les expériences de chacun pour ne plus affronter la maladie seul. </p>
           <div class="flex flex-row gap-4">
             <a href="#how" class="btn btn-primary">Comment participer ?</a>
             <a href="#about" class="btn btn-outline">En quoi cela consiste ?</a>
