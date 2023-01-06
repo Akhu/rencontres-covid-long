@@ -1,6 +1,5 @@
 <script>
   import heroImage from "$lib/images/hero-image.png"
-  import nextDateImage from "$lib/images/next-date-image.png"
   import papeteriesImage from "$lib/images/papet.jpeg"
 </script>
 
@@ -50,7 +49,7 @@
               </div>
             </div>
           </div>
-          <div class="prose pb-6 min-w-fit leading-normalpx-8" id="how">
+          <div class="prose pb-6 min-w-fit leading-normal px-8" id="how">
             <h2><span class="text-amber-500 material-symbols-rounded">commute</span> Comment venir ? </h2>
             <h3>1. Se rendre à Annecy </h3>
             <ul>
