@@ -44,7 +44,7 @@
                       74960, Annecy <br/>
                       Salle de Réunion (RDC)
                     </li>
-                    <li><a href="https://www.lespapeteries.com/">Informations pratiques (parking, bus etc.)</a></li>
+                    <li><a href="https://www.lespapeteries.com/plan.php">Informations pratiques (parking, bus etc.)</a></li>
                   </ul>
               </div>
             </div>
@@ -57,9 +57,9 @@
               <li>En bus, la gare routière d’Annecy est dense et bien desservie (FlixBus, BlaBla, Kelbus, etc.)</li>
               <li>Pensez à Blabla Car également</li>
             </ul>
-            <div class="flex flex-col md:flex-row items-center gap-2 px-8"><a class="btn-outline btn" href="https://www.sncf-connect.com/train/france/auvergne-rhone-alpes/annecy">Reserver un billet de train vers Annecy</a><a class="btn-outline btn" href="https://www.blablacar.fr/">BlaBlaCar</a></div>
+            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-outline btn" href="https://www.sncf-connect.com/train/france/auvergne-rhone-alpes/annecy">Reserver un billet de train vers Annecy</a><a class="btn-outline btn" href="https://www.blablacar.fr/">BlaBlaCar</a></div>
             <h3>2. Une fois sur Annecy </h3>
-            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-accent btn" href="https://www.lespapeteries.com/">Instructions pour se rendre sur le lieu (parking, bus etc.)</a><a href="https://goo.gl/maps/uFskPZAbnh6ka23S7" class="btn-outline btn">Voir sur Google Maps</a><a class="btn-outline btn" href="https://www.sibra.fr/">Site de la Sibra</a></div>
+            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-accent btn" href="https://www.lespapeteries.com/plan.php">Instructions pour se rendre sur le lieu (parking, bus etc.)</a><a href="https://goo.gl/maps/uFskPZAbnh6ka23S7" class="btn-outline btn">Voir sur Google Maps</a><a class="btn-outline btn" href="https://www.sibra.fr/">Site de la Sibra</a></div>
 
           </div>
         </div>
