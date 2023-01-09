@@ -28,7 +28,7 @@
           Prochaine date : 26/01/2023
         </h2>
         <div class="card bg-base-100 shadow-xl md:pr-0 mt-4 flex flex-col">
-          <div class="flex flex-row md:px-8">
+          <div class="flex flex-col md:flex-row md:px-8">
             <figure class="hidden">
               <img alt="Les Papeteries Images Factory Immeuble de bureaux" class="grid w-68 rounded-2xl bg-primary text-primary-content place-content-center" width="350" src={papeteriesImage}/>
             </figure>
@@ -57,9 +57,15 @@
               <li>En bus, la gare routière d’Annecy est dense et bien desservie (FlixBus, BlaBla, Kelbus, etc.)</li>
               <li>Pensez à Blabla Car également</li>
             </ul>
-            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-outline btn" href="https://www.sncf-connect.com/train/france/auvergne-rhone-alpes/annecy">Reserver un billet de train vers Annecy</a><a class="btn-outline btn" href="https://www.blablacar.fr/">BlaBlaCar</a></div>
+            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-outline btn" href="https://www.sncf-connect.com/train/france/auvergne-rhone-alpes/annecy">Réserver un billet de train vers Annecy</a><a class="btn-outline btn" href="https://www.blablacar.fr/">BlaBlaCar</a></div>
             <h3>2. Une fois sur Annecy </h3>
-            <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-accent btn" href="https://www.lespapeteries.com/plan.php">Instructions pour se rendre sur le lieu (parking, bus etc.)</a><a href="https://goo.gl/maps/uFskPZAbnh6ka23S7" class="btn-outline btn">Voir sur Google Maps</a><a class="btn-outline btn" href="https://www.sibra.fr/">Site de la Sibra</a></div>
+            <div class="flex flex-col">
+              <a class="btn-accent btn mb-6 gap-2" href="https://www.lespapeteries.com/plan.php">Instructions pour se rendre sur le lieu (parking, bus etc.) <span class="material-symbols-rounded">directions</span></a>
+
+              <div class="flex flex-col md:flex-row items-center gap-2">
+                <a href="https://goo.gl/maps/uFskPZAbnh6ka23S7" class="btn-outline btn">Voir sur Google Maps</a><a class="btn-outline btn" href="https://www.sibra.fr/">Site de la Sibra</a>
+              </div>
+            </div>
 
           </div>
         </div>
