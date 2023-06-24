@@ -137,7 +137,7 @@
             <div class="flex flex-col md:flex-row items-center gap-2"><a class="btn-outline btn" href="https://www.sncf-connect.com/train/france/auvergne-rhone-alpes/annecy">Réserver un billet de train vers Annecy</a><a class="btn-outline btn" href="https://www.blablacar.fr/">BlaBlaCar</a></div>
             <h3>2. Une fois sur Annecy </h3>
             <div class="flex flex-col">
-              <a class="btn-accent btn mb-6 gap-2" href="https://www.lespapeteries.com/plan.php">Instructions pour se rendre sur le lieu (parking, bus etc.) <span class="material-symbols-rounded">directions</span></a>
+              <a class="btn-accent btn mb-6 gap-2" href="https://www.lespapeteries.com/plan.php">Infos parking, bus etc. <span class="material-symbols-rounded">directions</span></a>
 
               <div class="flex flex-col md:flex-row items-center gap-2">
                 <a href="https://goo.gl/maps/uFskPZAbnh6ka23S7" class="btn-outline btn">Voir sur Google Maps</a><a class="btn-outline btn" href="https://www.sibra.fr/">Site de la Sibra</a>

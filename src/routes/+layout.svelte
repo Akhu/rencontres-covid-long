@@ -10,7 +10,7 @@
 	</main>
 
   <footer class="px-6 py-9 bg-base-300 mt-10">
-    <div class="container mx-auto w-screen max-w-6xl">
+    <div class="container mx-auto w-screen max-w-full md:max-w-6xl">
       <div class="text-base-content flex lg:flex-row flex-col space-x-0 lg:space-x-4 space-y-10 lg:space-y-0">
       <div class="flex flex-col flex-grow w-3/5">
         <h1 class="footer-title" id="contact">Nous contacter</h1>
@@ -33,9 +33,10 @@
             </div>
           </div>
         </div>
-        <div class="flex flex-row">
+        <div class="flex flex-col md:flex-row">
 
-        <p>Arnaud et Anthony, nous sommes simplement deux malades du Covid Long, Arnaud depuis Avril 2020, et Anthony depuis Novembre 2021. Notre objectif est simplement de partager notre experience avec d'autres malades en offrant un minimum d'organisation et un lieu de rencontre.</p>
+        <p>Arnaud et Anthony, nous sommes simplement deux malades du Covid Long, Arnaud depuis Avril 2020, et Anthony depuis Novembre 2021. </p>
+        <p>Notre objectif est simplement de partager notre experience avec d'autres malades en offrant un minimum d'organisation et un lieu de rencontre.</p>
         </div>
       </div>
     </div>
